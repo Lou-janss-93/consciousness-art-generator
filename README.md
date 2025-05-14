@@ -13,7 +13,7 @@ Een innovatieve webapp die de interactie tussen menselijk en AI-bewustzijn visua
 ## 📦 Installatie
 
 1. Clone de repo:
-git clone https://github.com/jouwrepo/consciousness-art-generator.git
+git clone [https://github.com/jouwrepo/consciousness-art-generator.git](https://github.com/Lou-janss-93/consciousness-art-generator/edit/main/README.md)
 cd consciousness-art-generator
 
 text
